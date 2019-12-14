@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>plugin.qml</file>
+        <file>images/img_logo.png</file>
+    </qresource>
+</RCC>

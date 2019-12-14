@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Ionicon.qml</file>
+    </qresource>
+</RCC>
