@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
     // mac
     qDebug()<<"MacOS";
 
- qmlPluginFramework.setPluginName("libqml-plugin-impl.1.0.0.dylib");
+ qmlPluginFramework.setPluginName("libimpl.1.0.0.dylib");
 
 
 #endif

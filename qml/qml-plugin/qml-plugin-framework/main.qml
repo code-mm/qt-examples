@@ -15,7 +15,7 @@ Window {
             // 插件名称
             // 插件开放函数
 
-            qmlPluginFramework.loaderPlugin("libqmlPlugin_debug.dylib","LoaderPluginApp")
+            qmlPluginFramework.loaderPlugin("libimpl.1.0.0.dylib","LoaderPluginApp")
 
         }
     }
